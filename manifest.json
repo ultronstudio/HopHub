@@ -1,0 +1,42 @@
+{
+  "name": "HopHub",
+  "description": "Styles the GitHub page to look like your favorite adult site.",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "icons": {
+    "16": "images/logo.png",
+    "32": "images/logo.png",
+    "48": "images/logo.png",
+    "128": "images/logo.png"
+  },
+  "action": {
+    "default_icon": "images/logo.png",
+    "default_title": "HopHub"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "host_permissions": [
+    "https://github.com/*"
+  ],
+  "content_scripts": [
+    {
+      "match_about_blank": true,
+      "matches": [
+        "https://github.com/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "css": [
+        "css/styles.css"
+      ]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [ "*.png" ],
+      "matches": [ "https://github.com/*" ]
+    }
+  ]
+}
