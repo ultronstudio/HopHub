@@ -1,12 +1,46 @@
+<!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title></title>
-    <link rel="stylesheet" href="./css/styles.css">
-</head>
-<body>
-    <script src="./content.js"></script>
-</body>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>HopHub</title>
+        <link
+            href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css"
+            rel="stylesheet"
+            integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD"
+            crossorigin="anonymous">
+        <style>
+        .extension-logo {
+            width: auto;
+            height: 75px;
+        }
+    </style>
+    </head>
+    <body>
+        <div class="container mt-2 mb-2">
+            <div class="justify-content-center text-center mb-2">
+                <img src="./images/logo.png" alt="HopHub"
+                    class="extension-logo">
+            </div>
+            <div class="alert alert-info mb-2" role="alert" id="extinfo">
+                <table class="table table-borderless">
+                    <thead>
+                        <tr>
+                            <th scope="col" id="extlang_name">undefined</th>
+                            <th scope="col" id="extver_name">undefined</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td id="extlang_value">undefined</td>
+                            <td id="extver_value">undefined</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <p class="mb-2"><a href="https://github.com/ultronstudio/HopHub/releases" target="_blank" rel="noopener noreferrer"><span id="extdwnload_name">undefined</span></a></p>
+        </div>
+        <script src="./js/popup.js"></script>
+        <script src="./js/bootstrap.bundle.min.js"></script>
+    </body>
 </html>

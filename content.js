@@ -53,5 +53,9 @@ style.innerHTML = `
 .border-bottom {
     border: none !important;
 }
+
+.reponame-suggestion, .color-fg-success {
+    color: var(--global) !important;
+}
     `;
 document.head.appendChild(style);

@@ -1,0 +1,37 @@
+{
+    "extName": {
+        "name": "HopHub",
+        "description": "Jméno rozšíření",
+        "message": "HopHub"
+    },
+    "extDesc": {
+        "name": "Upraví styly webu GitHub tak, aby vypadala jako vaše oblíbená stránka s obsahem pro dospělé.",
+        "description": "Popis rozšíření",
+        "message": "Upraví styly webu GitHub tak, aby vypadala jako vaše oblíbená stránka s obsahem pro dospělé."
+    },
+    "extPopup_ExtLocaleName": {
+        "name": "Jazyk rozšíření",
+        "description": "Jazyk rozšíření (název)",
+        "message": "Jazyk rozšíření"
+    },
+    "extPopup_ExtLocaleValue": {
+        "name": "Čeština",
+        "description": "Jazyk rozšíření (hodnota)",
+        "message": "Čeština"
+    },
+    "extPopup_ExtVersionName": {
+        "name": "Verze rozšíření",
+        "description": "Verze rozšíření (název)",
+        "message": "Verze rozšíření"
+    },
+    "extPopup_ExtVersionValue": {
+        "name": "1.0.0",
+        "description": "Verze rozšíření (hodnota)",
+        "message": "1.0.0"
+    },
+    "extPopup_ExtDownloadHere": {
+        "name": "Ke stažení zde",
+        "description": "Odkaz na stažení (název)",
+        "message": "Ke stažení zde"
+    }
+}

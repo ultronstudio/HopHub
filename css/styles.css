@@ -8,10 +8,6 @@
     --white: #fff;
 }
 
-.reponame-suggestion {
-    color: var(--global) !important;
-}
-
 .btn-primary, .btn-primary > svg {
     color: var(--black) !important;
     background-color: var(--global) !important;

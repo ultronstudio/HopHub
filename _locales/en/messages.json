@@ -1,0 +1,37 @@
+{
+    "extName": {
+        "name": "HopHub",
+        "description": "Extension name",
+        "message": "HopHub"
+    },
+    "extDesc": {
+        "name": "Styles the GitHub page to look like your favorite adult site.",
+        "description": "Description of extension",
+        "message": "Styles the GitHub page to look like your favorite adult site."
+    },
+    "extPopup_ExtLocaleName": {
+        "name": "Extension language",
+        "description": "Extension language (title)",
+        "message": "Extension language"
+    },
+    "extPopup_ExtLocaleValue": {
+        "name": "English",
+        "description": "Extension language (value)",
+        "message": "English"
+    },
+    "extPopup_ExtVersionName": {
+        "name": "Extension version",
+        "description": "Extension version (title)",
+        "message": "Extension version"
+    },
+    "extPopup_ExtVersionValue": {
+        "name": "1.0.0",
+        "description": "Extension version (value)",
+        "message": "1.0.0"
+    },
+    "extPopup_ExtDownloadHere": {
+        "name": "Download here",
+        "description": "Download link (title)",
+        "message": "Download here"
+    }
+}
