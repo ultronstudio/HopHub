@@ -31,7 +31,7 @@
         "content.js"
       ],
       "css": [
-        "css/styles.css"
+        "scss/dist/styles.css"
       ]
     }
   ],

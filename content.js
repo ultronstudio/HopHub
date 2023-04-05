@@ -43,7 +43,7 @@ favicon2.href = chrome.runtime.getURL("images/favicon.png");
 const style = document.createElement('style');
 style.innerHTML = `
 .color-bg-default {
-    background-color: var(--black) !important;
+    background-color: rgb(0, 0, 0) !important;
 }
 
 .color-border-muted {
@@ -55,7 +55,7 @@ style.innerHTML = `
 }
 
 .reponame-suggestion, .color-fg-success {
-    color: var(--global) !important;
+    color: rgb(255, 163, 26) !important;
 }
     `;
 document.head.appendChild(style);

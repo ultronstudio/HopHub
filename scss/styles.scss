@@ -1,0 +1,71 @@
+@import "_var";
+
+body {
+    background-color: $black !important;
+    color: $white !important;
+}
+
+.form-control {
+    background-color: transparent;
+
+    &:focus, &:active {
+        background-color: transparent;
+    }
+}
+
+.Button--primary, .btn-primary, .js-profile-editable-edit-button {
+    color: $black !important;
+    background-color: $brand-color !important;
+
+    svg {
+        color: $black !important;
+    }
+}
+
+.Label--success {
+    color: $brand-color !important;
+    border-color: $brand-color !important;
+}
+
+a, .btn-link, .ajax-pagination-form {
+    color: $white !important;
+
+    .ajax-pagination-btn {
+        color: $white !important;
+    }
+}
+
+.dropdown-item, .topic-tag {
+    &:hover {
+        color: $black !important;
+        background-color: $brand-color !important;
+    }
+}
+
+.Header, #repository-container-header {
+    background-color: $bl-3x0e !important;
+    border-bottom: 1px solid $bl-3x15;
+    z-index: 2;
+}
+
+.UnderlineNav-item.selected {
+    &:after, &[aria-current]:not([aria-current=false]):after, &[role=tab][aria-selected=true]:after {
+        background-color: $brand-color !important;
+    }
+}
+
+.header-search-wrapper {
+    background-color: $gray-alpha !important;
+    color: $white !important;
+    border: none !important;
+}
+
+.Box {
+    background-color: $bl-3x15 !important;
+    border-color: $gray !important;
+}
+
+.filter-item.selected, .filter-item[aria-selected=true], .filter-item[aria-current]:not([aria-current=false]) {
+    background-color: $brand-color !important;
+    color: $black !important;
+}

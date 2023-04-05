@@ -1,0 +1,62 @@
+body {
+  background-color: rgb(0, 0, 0) !important;
+  color: rgb(255, 255, 255) !important;
+}
+
+.form-control {
+  background-color: transparent;
+}
+.form-control:focus, .form-control:active {
+  background-color: transparent;
+}
+
+.Button--primary, .btn-primary, .js-profile-editable-edit-button {
+  color: rgb(0, 0, 0) !important;
+  background-color: rgb(255, 163, 26) !important;
+}
+.Button--primary svg, .btn-primary svg, .js-profile-editable-edit-button svg {
+  color: rgb(0, 0, 0) !important;
+}
+
+.Label--success {
+  color: rgb(255, 163, 26) !important;
+  border-color: rgb(255, 163, 26) !important;
+}
+
+a, .btn-link, .ajax-pagination-form {
+  color: rgb(255, 255, 255) !important;
+}
+a .ajax-pagination-btn, .btn-link .ajax-pagination-btn, .ajax-pagination-form .ajax-pagination-btn {
+  color: rgb(255, 255, 255) !important;
+}
+
+.dropdown-item:hover, .topic-tag:hover {
+  color: rgb(0, 0, 0) !important;
+  background-color: rgb(255, 163, 26) !important;
+}
+
+.Header, #repository-container-header {
+  background-color: rgb(14, 14, 14) !important;
+  border-bottom: 1px solid rgb(21, 21, 21);
+  z-index: 2;
+}
+
+.UnderlineNav-item.selected:after, .UnderlineNav-item.selected[aria-current]:not([aria-current=false]):after, .UnderlineNav-item.selected[role=tab][aria-selected=true]:after {
+  background-color: rgb(255, 163, 26) !important;
+}
+
+.header-search-wrapper {
+  background-color: rgba(67, 59, 54, 0.902) !important;
+  color: rgb(255, 255, 255) !important;
+  border: none !important;
+}
+
+.Box {
+  background-color: rgb(21, 21, 21) !important;
+  border-color: rgb(33, 33, 33) !important;
+}
+
+.filter-item.selected, .filter-item[aria-selected=true], .filter-item[aria-current]:not([aria-current=false]) {
+  background-color: rgb(255, 163, 26) !important;
+  color: rgb(0, 0, 0) !important;
+}/*# sourceMappingURL=styles.css.map */
