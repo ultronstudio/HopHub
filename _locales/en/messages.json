@@ -24,11 +24,6 @@
         "description": "Extension version (title)",
         "message": "Extension version"
     },
-    "extPopup_ExtVersionValue": {
-        "name": "1.0.2",
-        "description": "Extension version (value)",
-        "message": "1.0.2"
-    },
     "extPopup_ExtDownloadHere": {
         "name": "Download here",
         "description": "Download link (title)",

@@ -24,11 +24,6 @@
         "description": "Verze rozšíření (název)",
         "message": "Verze rozšíření"
     },
-    "extPopup_ExtVersionValue": {
-        "name": "1.0.2",
-        "description": "Verze rozšíření (hodnota)",
-        "message": "1.0.2"
-    },
     "extPopup_ExtDownloadHere": {
         "name": "Ke stažení zde",
         "description": "Odkaz na stažení (název)",

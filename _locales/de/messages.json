@@ -1,0 +1,32 @@
+{
+    "extName": {
+        "name": "HopHub",
+        "description": "Erweiterungsname",
+        "message": "HopHub"
+    },
+    "extDesc": {
+        "name": "Es ändert GitHub so, dass es wie Ihre bevorzugte Website mit Inhalten für Erwachsene aussieht.",
+        "description": "Beschreibung der Erweiterung",
+        "message": "Es ändert GitHub so, dass es wie Ihre bevorzugte Website mit Inhalten für Erwachsene aussieht."
+    },
+    "extPopup_ExtLocaleName": {
+        "name": "Erweiterungssprache",
+        "description": "Erweiterungssprache (Name)",
+        "message": "Erweiterungssprache"
+    },
+    "extPopup_ExtLocaleValue": {
+        "name": "Deutsch",
+        "description": "Erweiterungssprache (Name)",
+        "message": "Deutsch"
+    },
+    "extPopup_ExtVersionName": {
+        "name": "Erweiterungsversion",
+        "description": "Erweiterungsversion (Name)",
+        "message": "Erweiterungsversion"
+    },
+    "extPopup_ExtDownloadHere": {
+        "name": "Hier herunterladen",
+        "description": "Download-Link (Name)",
+        "message": "Hier herunterladen"
+    }
+}

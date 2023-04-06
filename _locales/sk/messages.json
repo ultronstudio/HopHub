@@ -1,0 +1,32 @@
+{
+    "extName": {
+        "name": "HopHub",
+        "description": "Meno rozšírenia",
+        "message": "HopHub"
+    },
+    "extDesc": {
+        "name": "Upraví štýly webu GitHub tak, aby vyzerala ako vaša obľúbená stránka s obsahom pre dospelých.",
+        "description": "Popis rozšírenia",
+        "message": "Upraví štýly webu GitHub tak, aby vyzerala ako vaša obľúbená stránka s obsahom pre dospelých."
+    },
+    "extPopup_ExtLocaleName": {
+        "name": "Jazyk rozšírenia",
+        "description": "Jazyk rozšírenia (názov)",
+        "message": "Jazyk rozšírenia"
+    },
+    "extPopup_ExtLocaleValue": {
+        "name": "Slovenčina",
+        "description": "Jazyk rozšírenia (hodnota)",
+        "message": "Slovenčina"
+    },
+    "extPopup_ExtVersionName": {
+        "name": "Verzia rozšírenia",
+        "description": "Verzia rozšírenia (názov)",
+        "message": "Verzia rozšírenia"
+    },
+    "extPopup_ExtDownloadHere": {
+        "name": "Na stiahnutie tu",
+        "description": "Odkaz na stiahnutie (názov)",
+        "message": "Na stiahnutie tu"
+    }
+}

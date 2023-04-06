@@ -8,6 +8,6 @@ window.onload =  function(){
     extlang_name.innerText = chrome.i18n.getMessage("extPopup_ExtLocaleName");
     extlang_value.innerText = chrome.i18n.getMessage("extPopup_ExtLocaleValue");
     extver_name.innerText = chrome.i18n.getMessage("extPopup_ExtVersionName");
-    extver_value.innerText = chrome.i18n.getMessage("extPopup_ExtVersionValue");
+    extver_value.innerText = chrome.runtime.getManifest().version;
     extdwnload_name.innerText = chrome.i18n.getMessage("extPopup_ExtDownloadHere");
 };
