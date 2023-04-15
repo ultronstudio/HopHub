@@ -1,7 +1,7 @@
 # HopHub
 CSS extension for your browser.
 
-> :warning: **This extension only works for GitHub dark mode**
+> :warning: **This extension only works with GitHub dark mode**
 
 ## About
 This <b>AMAZING</b> extension styles the GitHub page to look like your favorite adult site.
