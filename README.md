@@ -11,7 +11,7 @@ You can get this extension [here](https://github.com/ultronstudio/HopHub/release
 ![image](https://user-images.githubusercontent.com/71195567/223530335-e7b17876-929b-46a9-bd92-2c6c4e98b4e1.png)
 
 ## Firefox users
-![Mozilla Add-on](https://img.shields.io/amo/v/hophub?label=Mozilla%20Firefox&logo=firefox)
+![Mozilla Add-on](https://img.shields.io/amo/v/hophub?label=Mozilla%20Firefox&logo=firefox)<br>
 Download HopHub for Firefox browser [here](https://addons.mozilla.org/cs/firefox/addon/hophub).
 
 ## Edge users
