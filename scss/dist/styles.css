@@ -18,7 +18,7 @@ body {
   color: rgb(0, 0, 0) !important;
 }
 
-.Label--success {
+.Label--success, .Label--secondary {
   color: rgb(255, 163, 26) !important;
   border-color: rgb(255, 163, 26) !important;
 }
@@ -57,6 +57,11 @@ a .ajax-pagination-btn, .btn-link .ajax-pagination-btn, .ajax-pagination-form .a
 }
 
 .filter-item.selected, .filter-item[aria-selected=true], .filter-item[aria-current]:not([aria-current=false]) {
+  background-color: rgb(255, 163, 26) !important;
+  color: rgb(0, 0, 0) !important;
+}
+
+.kHdfWW {
   background-color: rgb(255, 163, 26) !important;
   color: rgb(0, 0, 0) !important;
 }/*# sourceMappingURL=styles.css.map */
