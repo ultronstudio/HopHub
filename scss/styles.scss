@@ -70,7 +70,52 @@ a, .btn-link, .ajax-pagination-form {
     color: $black !important;
 }
 
-.kHdfWW, .fSbPkp {
+.kHdfWW, .fSbPkp, .hSRgxc {
     background-color: $brand-color !important;
     color: $black !important;
+
+    &:hover {
+        background-color: $brand-color-dark !important;
+    }
+
+    &:active {
+        background-color: $brand-color-darker !important;
+    }
+
+    &:focus {
+        background-color: $brand-color-darker !important;
+    }
+
+    &:disabled {
+        background-color: $brand-color-darker !important;
+        cursor: not-allowed;
+    }
+}
+
+.ContributionCalendar-day, .ContributionCalendar-day[data-level="0"] {
+    fill: $black !important;
+
+    &[data-level="1"] {
+        fill: $data-level-1 !important;
+        background-color: $data-level-1 !important;
+    }
+
+    &[data-level="2"] {
+        fill: $data-level-2 !important;
+        background-color: $data-level-2 !important;
+    }
+
+    &[data-level="3"] {
+        fill: $data-level-3 !important;
+        background-color: $data-level-3 !important;
+    }
+
+    &[data-level="4"] {
+        fill: $data-level-4 !important;
+        background-color: $data-level-4 !important;
+    }
+}
+
+.Progress-item {
+    background-color: $brand-color !important;
 }

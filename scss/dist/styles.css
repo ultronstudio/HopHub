@@ -61,7 +61,44 @@ a .ajax-pagination-btn, .btn-link .ajax-pagination-btn, .ajax-pagination-form .a
   color: rgb(0, 0, 0) !important;
 }
 
-.kHdfWW {
+.kHdfWW, .fSbPkp, .hSRgxc {
   background-color: rgb(255, 163, 26) !important;
   color: rgb(0, 0, 0) !important;
+}
+.kHdfWW:hover, .fSbPkp:hover, .hSRgxc:hover {
+  background-color: rgb(206, 132, 21) !important;
+}
+.kHdfWW:active, .fSbPkp:active, .hSRgxc:active {
+  background-color: rgb(153, 98, 16) !important;
+}
+.kHdfWW:focus, .fSbPkp:focus, .hSRgxc:focus {
+  background-color: rgb(153, 98, 16) !important;
+}
+.kHdfWW:disabled, .fSbPkp:disabled, .hSRgxc:disabled {
+  background-color: rgb(153, 98, 16) !important;
+  cursor: not-allowed;
+}
+
+.ContributionCalendar-day, .ContributionCalendar-day[data-level="0"] {
+  fill: rgb(0, 0, 0) !important;
+}
+.ContributionCalendar-day[data-level="1"], .ContributionCalendar-day[data-level="0"][data-level="1"] {
+  fill: rgb(150, 78, 20) !important;
+  background-color: rgb(150, 78, 20) !important;
+}
+.ContributionCalendar-day[data-level="2"], .ContributionCalendar-day[data-level="0"][data-level="2"] {
+  fill: rgb(213, 114, 0) !important;
+  background-color: rgb(213, 114, 0) !important;
+}
+.ContributionCalendar-day[data-level="3"], .ContributionCalendar-day[data-level="0"][data-level="3"] {
+  fill: rgb(215, 139, 26) !important;
+  background-color: rgb(215, 139, 26) !important;
+}
+.ContributionCalendar-day[data-level="4"], .ContributionCalendar-day[data-level="0"][data-level="4"] {
+  fill: rgb(255, 163, 26) !important;
+  background-color: rgb(255, 163, 26) !important;
+}
+
+.Progress-item {
+  background-color: rgb(255, 163, 26) !important;
 }/*# sourceMappingURL=styles.css.map */
