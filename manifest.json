@@ -15,9 +15,7 @@
     "default_title": "__MSG_extName__",
     "default_popup": "./popup.html"
   },
-  "permissions": [
-    "activeTab"
-  ],
+  "permissions": [],
   "host_permissions": [
     "https://github.com/*"
   ],
