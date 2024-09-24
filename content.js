@@ -1,5 +1,5 @@
 try {
-    console.log("%cThe HopHub extension has been loaded successfully.", "color:green");
+    console.log("%cThe HopHub extension has been loaded successfully.", "color:#ffa31a");
 
     function replaceLogo() {
         const logo = document.querySelector(".octicon-mark-github");
