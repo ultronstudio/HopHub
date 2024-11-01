@@ -13,7 +13,7 @@ body {
     }
 }
 
-.Button--primary, .btn-primary, .js-profile-editable-edit-button {
+.Button--primary, .btn-primary, .js-profile-editable-edit-button, :where(.prc-Button-ButtonBase-c50BI):where([data-variant=primary]) {
     color: $black !important;
     background-color: $brand-color !important;
 

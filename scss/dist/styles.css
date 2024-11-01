@@ -10,11 +10,11 @@ body {
   background-color: transparent;
 }
 
-.Button--primary, .btn-primary, .js-profile-editable-edit-button {
+.Button--primary, .btn-primary, .js-profile-editable-edit-button, :where(.prc-Button-ButtonBase-c50BI):where([data-variant=primary]) {
   color: rgb(0, 0, 0) !important;
   background-color: rgb(255, 163, 26) !important;
 }
-.Button--primary svg, .btn-primary svg, .js-profile-editable-edit-button svg {
+.Button--primary svg, .btn-primary svg, .js-profile-editable-edit-button svg, :where(.prc-Button-ButtonBase-c50BI):where([data-variant=primary]) svg {
   color: rgb(0, 0, 0) !important;
 }
 
